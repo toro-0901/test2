@@ -1,0 +1,1 @@
+print("githubを使ってみた")
